@@ -1,0 +1,22 @@
+{
+    "checkpoint": "runs\\ddpg\\models\\ddpg_agent_008500.pth",
+    "actor_hiddens": [
+        400,
+        300
+    ],
+    "critic_feat_hiddens": [],
+    "critic_feat_size": 400,
+    "critic_mlp_hiddens": [
+        300
+    ],
+    "discount_factor": 0.99,
+    "soft_update": 1e-3,
+    "actor_lr": 1e-4,
+    "critic_lr": 1e-3,
+    "actor_wd": 1e-9,
+    "critic_wd": 1e-2,
+    "noise_theta": 0.15,
+    "noise_sigma": 0.2,
+    "noise_mu": 0,
+    "batchnorm": false
+}

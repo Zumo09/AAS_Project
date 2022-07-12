@@ -1,0 +1,15 @@
+{
+    "env_name": "Walker2d-v4",
+    "env_kwargs": {},
+    "observation_type": "linear",
+    "action_size": 6,
+    "observation_size": 17,
+    "checkpoint_interval": 500,
+    "num_episodes": 15000,
+    "max_episode_steps": 10000,
+    "num_test_episodes": 10,
+    "buffer_size": 1e5,
+    "sample_size": 256,
+    "ready_size": 4096,
+    "update_every": 4
+}
