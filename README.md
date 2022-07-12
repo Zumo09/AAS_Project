@@ -1,7 +1,9 @@
 # AAS_Project
  **Autonomous and Adaptive System - Project**
 
- Implementation of the Deep Deterministic Policy Gradient [1], and Soft Actor Critic [2]
+ Implementation of the Deep Deterministic Policy Gradient [1], and Soft Actor Critic [2], off-policy policy gradient methods for the control in environments with continuous action spaces. 
+ 
+ To be used with environments in the openai-gym module
 
 ## References
 
