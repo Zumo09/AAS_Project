@@ -1,5 +1,5 @@
 {
-    "checkpoint": "runs\\ddpg_dc\\models\\ddpg_agent_008000.pth",
+    "checkpoint": "runs\\ddpg_dc\\models\\ddpg_agent_best.pth",
     "actor_hiddens": [
         400,
         300

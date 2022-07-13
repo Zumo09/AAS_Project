@@ -1,5 +1,5 @@
 {
-    "checkpoint": "runs\\sac\\models\\sac_agent_013000.pth",
+    "checkpoint": "runs\\sac\\models\\sac_agent_best.pth",
     "actor_hiddens": [
         256
     ],
